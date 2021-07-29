@@ -14,3 +14,7 @@ app/node_modules/
 .envrc
 junit*.xml
 *.swp
+app/static/common/gitignore
+*.com
+app/static/common/choosealicense.com
+app/static/common/gitignore
